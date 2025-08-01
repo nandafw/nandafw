@@ -1,5 +1,4 @@
-## Hi there 👋
-- 👋 Hi, I’m @nandaaaaafw
+## Hi there, I’m Nanda Fadillah Wulandari👋
 - 👀 I’m interested in UI/UX Design and Web Development
 - 📫 How to reach me : nandafadillahw@gmail.com
 - 🎓 Pursuing my degree at Telkom University
