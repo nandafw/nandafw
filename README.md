@@ -1,5 +1,10 @@
 ## Hi there 👋
+- 👋 Hi, I’m @nandaaaaafw
+- 👀 I’m interested in UI/UX Design and Web Development
+- 📫 How to reach me : nandafadillahw@gmail.com
+- 🎓 Pursuing my degree at Telkom University
 
+  
 <!--
 **nandafw/nandafw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
